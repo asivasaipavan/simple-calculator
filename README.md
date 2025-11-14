@@ -23,5 +23,4 @@ It is simple, beginner-friendly, and runs entirely in the terminal.
 
 ---
 
-## 📂 Project Structure
 
