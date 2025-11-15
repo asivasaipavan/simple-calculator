@@ -1,4 +1,4 @@
-# Task 1 : Build a Calculator CLI App (With Square & Square Root)
+# Task 1 : Build a Calculator CLI App 
 import math
 def add(nums):
     return sum(nums)
@@ -75,3 +75,4 @@ while True:
         print("Result:", multiply(nums))
     elif choice == '4':
         print("Result:", divide(nums))
+
