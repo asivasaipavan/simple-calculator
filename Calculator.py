@@ -76,3 +76,4 @@ while True:
     elif choice == '4':
         print("Result:", divide(nums))
 
+# it works nice
